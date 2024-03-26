@@ -16,3 +16,7 @@ A library for deploying LangChain chains as a REST API
 ### LangSmith
 A developer platform that lets you debug, test, evaluate and monitor chains built on any LLM framework and seamlessly integrates with LangChain
 
+## Other Components
+### LlamaIndex
+A tool that acts as a bridge between your custom data and LLMs like GPT-4. Whether you have data stored in APIs, databases, or PDFs LlamaIndex makes it easy to bring that data into conversation with these smart machines. This bridge-building makes your data more accessible and usable, paving the way for creating powerful custom LLM applications and workflows
+
